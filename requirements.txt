@@ -1,0 +1,7 @@
+faker
+numpy
+pandas
+pyarrow
+python-dotenv
+confluent-kafka
+databricks-sdk
